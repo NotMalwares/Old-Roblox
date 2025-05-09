@@ -1,0 +1,10 @@
+@echo off
+start 1.exe
+start 2.exe
+start 3.exe
+start 4.exe
+start 5.exe
+start 6.exe
+start 7.exe
+start 1.bat
+start 5.mp3
